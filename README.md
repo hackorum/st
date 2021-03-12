@@ -16,6 +16,7 @@ sudo make clean install
 - [Bold is not bright](https://st.suckless.org/patches/bold-is-not-bright/)
 - [Gruvbox Theme](https://st.suckless.org/patches/gruvbox/)
 - [Scrollback](https://st.suckless.org/patches/scrollback/)
+- [Scrollback Mouse](https://st.suckless.org/patches/scrollback/)
 - [Ligatures](https://st.suckless.org/patches/ligatures/)
 - [Newterm](https://st.suckless.org/patches/newterm/)
 - [Dynamic cursor color](https://st.suckless.org/patches/dynamic-cursor-color/)
