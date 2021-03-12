@@ -20,6 +20,7 @@ sudo make clean install
 - [Ligatures](https://st.suckless.org/patches/ligatures/)
 - [Newterm](https://st.suckless.org/patches/newterm/)
 - [Dynamic cursor color](https://st.suckless.org/patches/dynamic-cursor-color/)
+- [Font2](https://st.suckless.org/patches/font2/)
 
 ## Contributing
 
