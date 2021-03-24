@@ -14,7 +14,7 @@ sudo make clean install
 
 - [Alpha](https://st.suckless.org/patches/alpha/)
 - [Bold is not bright](https://st.suckless.org/patches/bold-is-not-bright/)
-- [Gruvbox Theme](https://st.suckless.org/patches/gruvbox/)
+- [Onedark Theme]()
 - [Scrollback](https://st.suckless.org/patches/scrollback/)
 - [Scrollback Mouse](https://st.suckless.org/patches/scrollback/)
 - [Ligatures](https://st.suckless.org/patches/ligatures/)
