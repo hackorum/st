@@ -1,6 +1,6 @@
 ![st logo](https://raw.githubusercontent.com/hackorum/st/master/st.png)
 
-My build of the suckless Simple Terminal(st)
+My build of the suckless Simple Terminal(st) with onedark.
 
 ## Installation
 
@@ -14,12 +14,12 @@ sudo make clean install
 
 - [Alpha](https://st.suckless.org/patches/alpha/)
 - [Bold is not bright](https://st.suckless.org/patches/bold-is-not-bright/)
-- [Onedark Theme]()
 - [Scrollback](https://st.suckless.org/patches/scrollback/)
 - [Ligatures](https://st.suckless.org/patches/ligatures/)
 - [Newterm](https://st.suckless.org/patches/newterm/)
 - [Dynamic cursor color](https://st.suckless.org/patches/dynamic-cursor-color/)
 - [Font2](https://st.suckless.org/patches/font2/)
+- [Anysize](https://st.suckless.org/patches/anysize/)
 
 ## Contributing
 
